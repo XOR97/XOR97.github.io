@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## Hi. I’m Azhar.
 
-and I use this **space** to pen my thoughts on a range of topics that are at the intersection of computer science, data engineering, product design & development.
+I use this **space** to pen my thoughts on a range of topics that are at the intersection of computer science, data engineering, product design & development.
 
 I've recently stepped down from my position as Data Engineer at [RateGain](https://rategain.com) to pursue graduate studies. I was part of the Data Science Lab at RateGain and worked on a diverse set of problems ranging from price optimizations techniques, sentiment analysis of reviews to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at Jamia Hamdard University in New Delhi, where I got my Bachelor's degree in Computer Science.
 
