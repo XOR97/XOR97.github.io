@@ -69,7 +69,7 @@ Okay, now that I’ve scared/bored away all but the truly interested, let’s di
 
 As mentioned, there are many ways to extract candidate keyphrases from a document; here’s a simplified and compact implementation of the “noun phrases only” heuristic method:
 
-```
+```python
 def extract_candidate_chunks(text, grammar=r'KT: {(<JJ>* <NN.*>+ <IN>)? <JJ>* <NN.*>+}'):
     import itertools, nltk, string
     
@@ -91,7 +91,7 @@ def extract_candidate_chunks(text, grammar=r'KT: {(<JJ>* <NN.*>+ <IN>)? <JJ>* <N
 
 When `text` is assigned to the first two paragraphs of this post, `set(extract_candidate_chunks(text))` returns more or less the same set of candidate keyphrases as listed in 1. Candidate Identification. (Additional cleaning and filtering code improves the list a bit and helps to makes up for tokenizing/tagging/chunking errors.) For comparison, the original TextRank algorithm performs best when extracting all (unigram) nouns and adjectives, like so:
 
-```
+```python
 def extract_candidate_words(text, good_tags=set(['JJ','JJR','JJS','NN','NNP','NNS','NNPS'])):
     import itertools, nltk, string
 
@@ -113,7 +113,7 @@ In this case, `set(extract_candidate_words(text))` gives basically the same set 
 
 Code for keyphrase selection depends entirely on the approach taken, of course. It’s relatively straightforward to implement the simplest, frequency statistic-based approach using [scikit-learn](https://scikit-learn.org/stable/) or [gensim](https://radimrehurek.com/gensim/):
 
-```
+```python
 def score_keyphrases_by_tfidf(texts, candidates='chunks'):
     import gensim, nltk
     
@@ -163,7 +163,7 @@ Not too shabby! Although you can clearly see how [stemming](https://en.wikipedia
 
 Now, let’s try a bare-bones implementation of the TextRank algorithm. To keep it simple, only unigram candidates (not chunks or n-grams) are added to the network as nodes, the co-occurrence window size is fixed at 2 (so only adjacent words are said to “co-occur”), and the edges between nodes are unweighted (rather than weighted by the number of co-occurrences). The N top-scoring candidates are taken to be its keywords; sequences of adjacent keywords are merged to form key phrases and their individual PageRank scores are averaged, so as not to bias for longer keyphrases.
 
-```
+```python
 def score_keyphrases_by_textrank(text, n_keywords=0.05):
     from itertools import takewhile, tee, izip
     import networkx, nltk
@@ -245,7 +245,7 @@ Lastly, let’s try a supervised algorithm. I prefer a ranking approach over bin
 
 Feature extraction can get very complicated and convoluted. In the interest of brevity and simplicity, then, here’s a partial example:
 
-```
+```python
 def extract_candidate_features(candidates, doc_text, doc_excerpt, doc_title):
     import collections, math, nltk, re
     
