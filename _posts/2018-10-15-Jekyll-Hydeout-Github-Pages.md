@@ -20,7 +20,7 @@ I came across this really cool git repo called [Hydeout](https://github.com/fong
 
 ![The demo Hydeout website](/assets/demo.png)
 
-To get started with my blog, all I had to do was create a new Git repo with the name [azkh93.github.io](http://azkh93.github.io), download the Hydeout repository, and push it to my git repo. A few minutes later the website azkh93.github.io was ready! I only had a few posts on my previous website so I just copied them over manually. But there is [a package](http://jekyllrb.com/docs/migrations) for migrating blogs to Jekyll.
+To get started with my blog, all I had to do was create a new Git repo with the name [XOR97.github.io](http://XOR97.github.io), download the Hydeout repository, and push it to my git repo. A few minutes later the website XOR97.github.io was ready! I only had a few posts on my previous website so I just copied them over manually. But there is [a package](http://jekyllrb.com/docs/migrations) for migrating blogs to Jekyll.
 
 ## Blog Layout
 
@@ -127,10 +127,10 @@ For Google Analytics support, define a `google_analytics` variable with your tra
 
 ## Getting a Custom URL
 
-Once I got my blog up to speed on GitHub with the URL [azkh93.github.io](https://azkh93.github.io), it was easy to link my personal domain [azharkhan.in](https://azharkhan.in) to it. I use GoDaddy to host my domain, so I followed the instructions [here](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b).
+Once I got my blog up to speed on GitHub with the URL [XOR97.github.io](https://XOR97.github.io), it was easy to link my personal domain [azharkhan.in](https://azharkhan.in) to it. I use GoDaddy to host my domain, so I followed the instructions [here](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b).
 
 I hope this blog post will help you get up to speed quickly with GitHub Pages, Jekyll, and Hydeout.
-If you have any questions about my implementation, you can view my entire website on [GitHub](https://github.com/azkh93/azkh93.github.io) or leave a question below.
+If you have any questions about my implementation, you can view my entire website on [GitHub](https://github.com/XOR97/XOR97.github.io) or leave a question below.
 
 ## More Links
 
@@ -140,4 +140,4 @@ Here are some links which helped me along the way:
 * Documentation by GitHub about hosting static webpages with [GitHub pages](http://pages.github.com).
 * The [poole](https://github.com/poole/poole) GitHub repository.
 * The [Hydeout](https://github.com/fongandrew/hydeout) GitHub repository.
-* The GitHub repository for my [personal website](https://github.com/azkh93/azkh93.github.io).
+* The GitHub repository for my [personal website](https://github.com/XOR97/XOR97.github.io).
