@@ -5,7 +5,7 @@ title: Columnar In-Memory Analytics using Arrow
 
 Today marks the 3rd anniversary of Apache Arrow and I thought why not write about this highly underated library which is slowly and steadily [taking the analytics community by storm](https://twitter.com/wesmckinn/status/1097871072622460928).
 
-So, what is **Arrow**
+So, what is **Arrow**.
 
 >Well,  Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
 
