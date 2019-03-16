@@ -39,7 +39,7 @@ __Jamia Hamdard University, New Delhi.__
 *Coursework* - Discrete Math, Algorithmic Complexity, Computer Networks, Data Structures, Theory of Computation, Linear Algebra,
 Artificial Intelligence, Compiler Design, Organizational Behavior, Computer Organization & Architechture, Introduction to Object Oriented Programming, Probability, Operating System.
 
-`1998-2011`
+`1997-2011`
 __Delhi Public School, Mathura Road, New Delhi.__
 
 
