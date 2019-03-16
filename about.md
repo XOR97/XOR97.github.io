@@ -8,7 +8,7 @@ sidebar_link: true
 
 I use this **space** to pen my thoughts on a range of topics that are at the intersection of computer science, analytics, data engineering, product design & development.
 
-I've recently stepped down from my position as Data Engineer at [RateGain](https://rategain.com) to pursue graduate studies. I was part of the Data Science Lab at RateGain and worked on a diverse set of problems ranging from price optimizations techniques, sentiment analysis of reviews to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at Jamia Hamdard University in New Delhi, where I got my Bachelor's degree in Computer Science.
+I've recently stepped down from my position as Data Engineer at [RateGain](https://rategain.com) to pursue graduate studies. I was part of the Data Science Lab at RateGain and worked on a diverse set of problems ranging from price optimizations techniques, sentiment analysis of reviews to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at [Jamia Hamdard University](https://en.wikipedia.org/wiki/Jamia_Hamdard) in New Delhi, where I got my Bachelor's degree in Computer Science.
 
 Most of my experience has been focused on the design & growth of analytic-driven systems and managing their scale. Usually, that means bouncing between research, feature design/development, growth analysis, and team coordination.
 
