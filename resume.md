@@ -12,7 +12,7 @@ The fastest way to reach me would be through azhar932 AT icloud DOT com
 
 Recommendations would be made available on request.
 
-Last updated on 12th of December, 2018
+Last updated on 24th of June, 2019
 ```
 
 ### Work Experience
@@ -30,6 +30,13 @@ __Analyst at RateGain, Noida.__
 - Consolidated, validated and cleansed data from a vast range of sources – from applications and databases to files and web services.
 
 ### Education
+
+`2019-Currently`
+__University of Ottawa, Ontario.__
+
+**Master's in Engineering Management**
+
+*Coursework* - Product Development & Management, Corporate Finance, Project Management, Strategic Marketing Management, Data Science Applications, Business Intelligence Technologies & Big Data Analytics, Software Product Management, UX Design 
 
 `2012-2016`
 __Jamia Hamdard University, New Delhi.__
