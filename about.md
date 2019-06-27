@@ -8,7 +8,7 @@ sidebar_link: true
 
 I use this **space** to pen my thoughts on a range of topics that are at the intersection of computer science, analytics, data engineering, product design & software development.
 
-I'm currently pursing a Master's degree in Engineering from the [University of Ottawa](https://www.uottawa.ca/en) with focus towards Product Development & Analytics. Most recently I have worked as a Data Engineer at [RateGain](https://rategain.com). I was part of their Data Science Lab and worked on a diverse set of problems ranging from price optimizations techniques, sentiment analysis of reviews to building custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at [Jamia Hamdard University](https://en.wikipedia.org/wiki/Jamia_Hamdard) in New Delhi, where I got my Bachelor's degree in Computer Science.
+I'm currently pursuing a Master's degree in Engineering from the [University of Ottawa](https://www.uottawa.ca/en) with focus towards Product Development & Analytics. Most recently I have worked as a Data Engineer at [RateGain](https://rategain.com). I was part of their Data Science Lab and worked on a diverse set of problems ranging from price optimizations techniques, sentiment analysis of reviews to buildngi custom algorithms for city demand forecasting. Prior to RateGain, I was an undergraduate at [Jamia Hamdard University](https://en.wikipedia.org/wiki/Jamia_Hamdard) in New Delhi, where I got my Bachelor's degree in Computer Science.
 
 Most of my experience has been focused on the design & growth of analytic-driven systems and managing their scale. Usually, that means bouncing between research, feature design/development, growth analysis, and team coordination.
 
