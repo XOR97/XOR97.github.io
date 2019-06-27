@@ -31,7 +31,7 @@ __Analyst at RateGain, Noida.__
 
 ### Education
 
-`2019-Currently`
+`2019-`
 __University of Ottawa, Ontario.__
 
 **Master's in Engineering Management**
