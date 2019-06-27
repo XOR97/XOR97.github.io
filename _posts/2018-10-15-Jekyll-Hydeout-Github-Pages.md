@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll + Hydeout + Github Pages
+title: Jekyll, Hydeout & Github Pages
 ---
 
 I recently migrated this website from [Wordpress](http://wordpress.com) to [Github pages](http://pages.github.com/)
