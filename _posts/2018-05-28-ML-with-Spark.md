@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ML with Spark
+title: Machine Learning + Spark
 ---
 
 **Apache Spark** - the cluster computing framework that’s been throwing shade at MapReduce since 2011 - has always been a bit remarkable, because it bridged the divide between data engineering and data science. One of the great promises of Spark was that it would be easy, trivial almost, to scale machine learning and data science to arbitrarily large data. Seven years later, Spark has made its place in data science, but perhaps not in the way we originally hoped.
