@@ -1,6 +1,6 @@
 # Hugo Starter 1.0
 
-A Hugo starter project and theme used for [harrycresswell.com](https://harrycresswell.com/).
+A Hugo starter project and theme used for [harrycresswell.com](https://azharkhan.in/).
 
 ## Features
 
@@ -9,8 +9,6 @@ A Hugo starter project and theme used for [harrycresswell.com](https://harrycres
 - [Lazysizes.js](https://github.com/aFarkas/lazysizes) for image lazy loading
 - Responsive image with [Cloudinary](https://cloudinary.com/documentation/responsive_images#automating_responsive_images_with_javascript)
 - Minimal dependencies
-
-Read more about it in [How I built this site](https://harrycresswell.com/build/).
 
 ## Prerequisites
 
@@ -21,7 +19,7 @@ You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm
 Clone this repository:
 
 ```
-git clone https://github.com/harrycresswell/harry.git
+git clone https://github.com/XOR97/XOR97.github.io.git
 ```
 
 Then run:
