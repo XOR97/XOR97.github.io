@@ -1,6 +1,6 @@
 # Hugo Starter 1.0
 
-A Hugo starter project and theme used for [harrycresswell.com](https://azharkhan.in/).
+A Hugo starter project and theme used for [azharkhan.in](https://azharkhan.in/).
 
 ## Features
 
