@@ -1,1 +1,1 @@
-This is the personal website of Azhar Khan, hosted by [GitHub Pages](http://pages.github.com).
+A Jekyll website, hosted on [GitHub Pages](http://pages.github.com).
