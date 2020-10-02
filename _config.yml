@@ -4,10 +4,10 @@ highlighter:      rouge
 
 # Setup
 title:            Azhar Khan
-email:            azhar932@icloud.com
+email:            
 tagline:          
 description:      "~$ Hello World"
-url:              https://azharkhan.in
+url:              
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -17,19 +17,19 @@ baseurl:
 
 author:
   name:           'Azhar Khan'
-  url:            https://twitter.com/azhar937
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 github:
-  repo:           https://github.com/azkh93/azkh93.github.io
+  repo:           
 
 disqus:
   shortname: azharkhan
 
-google_analytics: UA-127874396-1
+google_analytics:
 
 plugins:
   - jekyll-feed
