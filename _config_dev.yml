@@ -5,8 +5,8 @@ highlighter:      rouge
 
 # Setup
 title:            Azhar Khan
-email:            azhar932@icloud.com
-tagline:          'Just my 2 cents'
+email:            
+tagline:          
 description:      "Data. Code. Design"
 url:              http://localhost:4000
 baseurl:
@@ -18,19 +18,19 @@ baseurl:
 
 author:
   name:           'Azhar Khan'
-  url:            https://twitter.com/azhar937
+  url:            
 
 paginate:         5
 #paginate_path:    '/blog/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 github:
-  repo:           https://github.com/azkh93/azkh93.github.io
+  repo:           
 
 disqus:
   shortname: azharkhan
 
-google_analytics: UA-127874396-1
+google_analytics: 
 
 
 plugins:
